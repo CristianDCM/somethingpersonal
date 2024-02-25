@@ -1,0 +1,1 @@
+game.RunService.RenderStepped:Connect(function()Game:GetService("ReplicatedStorage").RemoteEvents.Gui.AddPoint:FireServer("thi&!44",false,false,false) end)
